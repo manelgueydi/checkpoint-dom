@@ -1,0 +1,43 @@
+body {
+  background-color: #a95776;
+  display: flex;
+  justify-content: center;
+}
+.div1 {
+  color: #fffdfd;
+  font-family: "roboto", Arial, sans-serif;
+}
+.div1 {
+  width: 900px;
+  height: 700px;
+  max-width: 900px;
+  max-height: 500px;
+  border-radius: 10px;
+  background-color: #82284a;
+  padding: 1.375em 1.25em 0;
+}
+.group {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.titre {
+  text-align: center;
+}
+.img {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-around;
+}
+.div2 {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-around;
+}
+.div3 {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-around;
+}
